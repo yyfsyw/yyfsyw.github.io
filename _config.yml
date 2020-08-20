@@ -1,8 +1,8 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: YYf Blog
+SEOTitle: 杨云飞的博客 | YYF Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: yunfei.yang717@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
@@ -19,9 +19,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+#zhihu_username:     qiubaiying
+github_username:    yyfsyw
+facebook_username:  yunfei.yang.9
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
